@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
-    val name: String = "Pedro Ferreira de Carvalho Junior"
-    println("Hi, $name")
+    var name: String = "Pedro Ferreira"
+    var age: Int = 28
+    println("Hi, my name is $name and i am $age years old")
 }
